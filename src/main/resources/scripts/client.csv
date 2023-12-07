@@ -1,0 +1,12 @@
+ID_USER,USERNAME,PASSWORD,FIRST_NAME,LAST_NAME,BIRTH,STATUS
+1,jdoe,123,Joe,Doe,"2023-09-10 00:00:00",A
+2,jadoe,123,Jane,Doe,"2023-09-10 00:00:00",A
+3,msmith,123,Mike,Smith,"2023-01-01 00:00:00",A
+5,mwilliams,1234,Mary,Williams,"2023-09-16 00:00:00",A
+6,cdavis,123,Charles,Davis,"2023-09-16 00:00:00",A
+7,landerson,123,Lisa,Anderson,"2023-09-15 00:00:00",A
+8,mtaylor,1234,Mark,Taylor,"2023-09-14 00:00:00",A
+9,smmore,12345,Sandra,Moore,"2023-09-13 00:00:00",A
+10,awright,123,Andrew,Wright,"2023-09-16 00:00:00",A
+11,rking,123,Rebecca,King,"2023-09-15 00:00:00",A
+12,clairc2@gmail.com,123,Clair,Clarke,"2023-11-14 00:00:00",A
